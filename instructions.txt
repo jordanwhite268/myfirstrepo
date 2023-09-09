@@ -1,3 +1,3 @@
-Instructions for deploying this code
+Instructions for deploying this code to the server
 
 Ob-la-di, Ob-la-da life goes on.  La la la la la life goes on. 
